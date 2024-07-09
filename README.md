@@ -8,3 +8,10 @@ This project is a clone of Google's Gemini AI website, designed to perform simil
 <li>Integration with the Gemini API for fetching AI-generated results</li>
 <li>Interactive and dynamic user experience powered by React</li>
 <li>Easy-to-navigate interface</li>
+
+<h2>Tech Stack</h2>
+<li>HTML</li>
+<li>CSS</li>
+<li>Tailwind CSS</li>
+<li>JavaScript</li>
+<li>React</li>
