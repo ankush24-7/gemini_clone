@@ -1,5 +1,5 @@
 <h1>Gemini Clone Project</h1>
-A web-based clone of Google's Gemini AI, built with HTML, CSS, Tailwind CSS, JavaScript, and React.
+A web-based clone of Google's Gemini AI, built with HTML, CSS, Tailwind CSS, JavaScript, and React.<br>
 This project is a clone of Google's Gemini AI website, designed to perform similarly by using the Gemini API to fetch results. The front-end is built using HTML, CSS, Tailwind CSS, JavaScript, and React.
 
 <h1>Features</h1>
