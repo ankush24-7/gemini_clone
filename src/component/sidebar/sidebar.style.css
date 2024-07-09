@@ -1,0 +1,9 @@
+#recent {
+  animation: fadeIn 1s ease-in-out;
+}
+
+@media (max-width: 768px) {
+  #sidebar {
+    display: none;
+  }
+}
