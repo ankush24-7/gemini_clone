@@ -1,14 +1,12 @@
 import {
-  GoogleGenerativeAI,
-  HarmCategory,
-  HarmBlockThreshold,
+  GoogleGenerativeAI
 } from "@google/generative-ai";
 
 const apiKey = `${process.env.REACT_APP_API_KEY}`;
 const genAI = new GoogleGenerativeAI(apiKey);
 
 const model = genAI.getGenerativeModel({
-  model: "gemini-1.0-pro",
+  model: "gemini-1.5-pro",
 });
 
 const generationConfig = {
